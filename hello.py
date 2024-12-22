@@ -1,4 +1,4 @@
-marks = int(input("Enter Marks : "))
+marks = 75
 
 if marks >=0 and marks <=100 :
     if marks >= 0 and marks <= 34:
@@ -17,7 +17,7 @@ else :
 
 
 
-result = int(input("Enter the Result : "))
+result = 78
 
 if result >=0 and result <=100 :
     if result >=0 and result <= 34 :
